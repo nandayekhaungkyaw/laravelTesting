@@ -3,8 +3,7 @@
 @section('content')
 <div class="container mx-auto px-4 flex flex-col gap-4">
 
-   <h1 class=" text-3xl font-bold text-center">This is home
-       Page
+   <h1 class=" text-3xl font-bold text-center">MCB-5 Home Page
    </h1>
 
    <div>
